@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38075526177",
+    "project_id": "my-artifact-04",
+    "storage_bucket": "my-artifact-04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38075526177:android:8b2b95ff1d3a92a2f24760",
+        "android_client_info": {
+          "package_name": "com.saurabhawathare.myartifact04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEWxWe5h_B79JtXcRCKomK3Y4bTE6dII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

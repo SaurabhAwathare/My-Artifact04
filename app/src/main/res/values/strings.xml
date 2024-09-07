@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Artifact 04</string>
+    <string name="login">Login</string>
+    <string name="login_Head">Login</string>
+    <string name="or_continue_with">---------- Or Continue With ----------</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="default_web_client_id">38075526177-rfooec5gboe652tpmrpcpnkr3j18ucor.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_oue_app">Welcome to Oue App</string>
+</resources>
